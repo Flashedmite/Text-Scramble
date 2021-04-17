@@ -24,7 +24,7 @@ teacher, / her / come / art / for / a / Mr. / artist / Jo, / talk. / to / the / 
 first.txt (한글 뜻 추천), second.txt (영어 스크램블 파일 추천) 를 두고 실행하면
 
 *그녀의 꿈은 만화가가 되는 것이어서, 그녀는 방과 후 활동 중 미술 프로그램에 참여한다.  
-to / dream / artist. / a / Her / comics / is / become*  
+to / dream / artist. / a / Her / comics / is / become  
 
 그러나 몇 주 후에, 그녀는 수업을 빠지기 시작한다.  
 few / starts / skipping / a / classes. / But / weeks, / she / after*  
