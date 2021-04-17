@@ -6,7 +6,7 @@
 실행하려면 Python3 설치가 되어있어야 한다.
 
 
-#사용법
+# 사용법
 TextBook.py:
 같은 경로 내에 py.txt를 만든다. 안에 내용은
 Her dream is to become a comics artist.
