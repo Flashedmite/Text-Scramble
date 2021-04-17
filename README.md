@@ -21,7 +21,7 @@ teacher, / her / come / art / for / a / Mr. / artist / Jo, / talk. / to / the / 
 라는 내용과 함께 outputtext.txt라는 파일로 나온다.
 
 
-#TwoFilesLines.py (UTf-8):
+# TwoFilesLines.py (UTf-8)
 
 first.txt (한글 뜻 추천), second.txt (영어 스크램블 파일 추천) 를 두고 실행하면
 
