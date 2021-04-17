@@ -6,8 +6,8 @@
 실행하려면 Python3 설치가 되어있어야 한다.
 
 
-# 사용법
-TextBook.py:
+# TextBook.py
+
 같은 경로 내에 py.txt를 만든다. 안에 내용은
 Her dream is to become a comics artist.
 But after a few weeks, she starts skipping classes.
@@ -20,7 +20,9 @@ teacher, / her / come / art / for / a / Mr. / artist / Jo, / talk. / to / the / 
 
 라는 내용과 함께 outputtext.txt라는 파일로 나온다.
 
-TwoFilesLines.py (UTf-8 필수):
+
+#TwoFilesLines.py (UTf-8):
+
 first.txt (한글 뜻 추천), second.txt (영어 스크램블 파일 추천) 를 두고 실행하면
 
 1. 그녀의 꿈은 만화가가 되는 것이어서, 그녀는 방과 후 활동 중 미술 프로그램에 참여한다.
