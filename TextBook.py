@@ -1,7 +1,7 @@
 import random
 
-inputText = open("py.txt", 'r')
-outputText = open("outputtext.txt", 'w')
+inputText = open("py.txt", 'r', encoding='utf-8')
+outputText = open("outputtext.txt", 'w',encoding='utf-8')
 
 linesList = inputText.readlines()
 
