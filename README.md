@@ -1,12 +1,11 @@
 # TextScramble
  [CLI] make text scrambled
 
-아직 실력 부족으로 GUI 버전은 무리다, 나중에 한 번 만들어보도록 해야겠다..  
-나중에 교과서 모든 문장을 대상으로도 할 수 있게 할 거지만, 일단 지금 당장 필요한 정도만 만들었다.  
-실행하려면 Python3 설치가 되어있어야 한다.  
+안타깝게도 GUI 구현은 못하기 때문에 py 원본 자체로 올렸다.  
+모든 파일의 인코딩은 utf-8로 되어있어야 정상 작동한다.
 
 ## TextBook.py
-같은 경로 내에 py.txt를 만든다. 안에 내용은
+같은 경로 내에 py.txt를 만들어서 안에 영어 분문을 넣어준다. (줄 단위 구분)
 
 Her dream is to become a comics artist.  
 But after a few weeks, she starts skipping classes.  
@@ -21,7 +20,7 @@ teacher, / her / come / art / for / a / Mr. / artist / Jo, / talk. / to / the / 
 라는 내용과 함께 outputtext.txt라는 파일로 나온다.
 
 ## TwoFilesLines.py (UTf-8)
-first.txt (한글 뜻 추천), second.txt (영어 스크램블 파일 추천) 를 두고 실행하면
+first.txt (한글 뜻), second.txt (뒤섞인 영어 문장 파일)
 
 그녀의 꿈은 만화가가 되는 것이어서, 그녀는 방과 후 활동 중 미술 프로그램에 참여한다.  
 to / dream / artist. / a / Her / comics / is / become  
@@ -30,4 +29,4 @@ to / dream / artist. / a / Her / comics / is / become
 few / starts / skipping / a / classes. / But / weeks, / she / after  
 
 이런 식으로 나온다. (앞에 문장 순서를 원하면 first 파일에 1. 2. ... 이렇게 추가해주면 된다)  
-참고로 first, second 파일은 줄 수가 같아야 한다. 아님 동작 X  
+참고로 first, second 파일은 줄 수가 같아야 한다. 아님 오류가 발생한다. 아마?
