@@ -20,7 +20,7 @@ teacher, / her / come / art / for / a / Mr. / artist / Jo, / talk. / to / the / 
 라는 내용과 함께 outputtext.txt라는 파일로 나온다.
 
 ## TwoFilesLines.py (UTf-8)
-first.txt (한글 뜻), second.txt (뒤섞인 영어 문장 파일)
+같은 경로 내에 first.txt (한글 뜻), second.txt (뒤섞인 영어 문장 파일)
 
 그녀의 꿈은 만화가가 되는 것이어서, 그녀는 방과 후 활동 중 미술 프로그램에 참여한다.  
 to / dream / artist. / a / Her / comics / is / become  
